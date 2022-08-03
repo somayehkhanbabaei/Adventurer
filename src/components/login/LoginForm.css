@@ -1,0 +1,34 @@
+.layout {
+  background-color: #ececec !important;
+  height: 60vh;
+  width: 200px;
+  padding: 20px;
+  margin: 40px auto;
+}
+
+.avatar {
+  background-color: rgb(13, 148, 13) !important;
+}
+
+.check {
+  margin-top: 10px !important;
+}
+.check--remember {
+  color: rgb(32, 173, 173) !important;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.signin--btn {
+  color: #fff !important;
+  background-color: rgb(200, 120, 247) !important;
+}
+
+.signup--btn {
+  color: #fff !important;
+  background-color: rgb(90, 235, 97) !important;
+}
